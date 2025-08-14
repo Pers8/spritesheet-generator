@@ -1,4 +1,6 @@
 # Spritesheet Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A cross-platform desktop application for converting frame-by-frame animations into optimized PNG/GIF spritesheets, with direct integration support for Roblox. Built with **Electron**, **React**, and **TailwindCSS**.
 
