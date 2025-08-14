@@ -1,0 +1,22 @@
+directories:
+  output: release
+  buildResources: public
+appId: com.spritesheet.generator
+productName: Spritesheet Generator
+files:
+  - filter:
+      - dist/**/*
+      - public/electron.cjs
+      - src/preload.js
+extraMetadata:
+  main: public/electron.cjs
+win:
+  target: nsis
+  icon: public/logo.ico
+mac:
+  target: dmg
+  icon: public/logo.icns
+linux:
+  target: AppImage
+  icon: public/logo.png
+electronVersion: 22.3.27
