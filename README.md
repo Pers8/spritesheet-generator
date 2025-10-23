@@ -9,7 +9,7 @@ A desktop application for converting frame-by-frame animations into PNG/GIF spri
 - **Cross-Platform** – Works on Windows, macOS and Linux.
 - **Drag-and-Drop Interface** – Quickly import animations and organize frames visually.
 
-## 📦 Installation
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/spritesheet-generator.git
