@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 
-A desktop application for converting frame-by-frame animations into PNG/GIF spritesheets with direct integration support for Roblox.
+A desktop application for converting frame-by-frame animations into PNG/GIF spritesheets.
 
 ## Features
 - **Animation to Spritesheet** – Convert frame sequences into PNG/GIF spritesheets.
